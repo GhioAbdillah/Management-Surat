@@ -1,0 +1,6 @@
+{
+  "name": "E-Surat: Sistem Manajemen Surat Masuk & Keluar",
+  "description": "Sistem informasi pengelolaan persuratan dinas, tata usaha, disposisi berjenjang, notifikasi status real-time, dan rekapitulasi laporan resmi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
